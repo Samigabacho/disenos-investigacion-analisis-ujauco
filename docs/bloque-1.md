@@ -408,3 +408,18 @@ En el siguiente bloque ampliaremos esta lógica para abordar una cuestión difer
 ¿Qué ocurre cuando queremos sintetizar resultados entre estudios distintos?
 Este paso nos llevará a la introducción del meta-análisis, que puede entenderse como una extensión natural del razonamiento multivariado aplicado a la evidencia científica.
 > **Idea clave: el meta-análisis no cambia la forma de pensar el análisis, sino la unidad de análisis.**
+
+---
+
+## Conexión con las prácticas
+
+Los contenidos desarrollados en este bloque se trabajarán de forma aplicada a través de **ejemplos guiados y prácticas formativas**, orientadas a:
+
+- interpretar correctamente modelos de regresión,
+- comprender el papel de las variables predictoras,
+- analizar resultados reales procedentes de investigaciones educativas.
+
+Estas actividades permitirán consolidar los fundamentos conceptuales presentados y preparar al alumnado para la lectura crítica de estudios empíricos.
+
+Las prácticas asociadas pueden consultarse en la sección  
+**[Prácticas y ejemplos aplicados](practicas.html)**.
