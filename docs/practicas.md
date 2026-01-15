@@ -29,6 +29,8 @@ En este bloque se incorporarán:
 - **Prácticas aplicadas**
   - Análisis de resultados reales publicados
   - Discusión de supuestos y limitaciones
+  - [Ejemplo práctico: interpretación de una regresión lineal](ejemplos/ejemplo-bloque-1.html)
+
 
 ---
 
@@ -43,6 +45,8 @@ En este bloque se incorporarán:
 - **Prácticas aplicadas**
   - Análisis crítico de meta-análisis en educación
   - Discusión sobre heterogeneidad y sesgo de publicación
+  - [Ejemplo práctico: lectura de un forest plot](ejemplos/ejemplo-bloque-2.html)
+
 
 ---
 
