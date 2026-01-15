@@ -270,3 +270,18 @@ evaluación crítica de la literatura científica,
 y enfoques metacientíficos en investigación educativa.
 Estas cuestiones se desarrollarán con mayor detalle en otras asignaturas del máster, donde se abordarán de forma más explícita y crítica.
 > **Idea clave: comprender cómo se sintetiza y se interpreta la evidencia es tan importante como saber analizar datos individuales.**
+
+---
+
+## Conexión con las prácticas
+
+Los contenidos introducidos en este bloque se abordarán mediante **ejemplos conceptuales y actividades aplicadas**, centradas en:
+
+- la lectura e interpretación de meta-análisis publicados,
+- la comprensión de tamaños del efecto y heterogeneidad,
+- la discusión crítica de resultados y limitaciones metodológicas.
+
+Estas prácticas tienen como objetivo facilitar una comprensión funcional del meta-análisis como herramienta de síntesis de la evidencia científica en educación.
+
+Las actividades asociadas pueden consultarse en la sección  
+**[Prácticas y ejemplos aplicados](practicas.html)**.
