@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Bloque 2
+title: Bloque 2 · Introducción al meta-análisis
 ---
+
 
 # Bloque 2. Introducción al meta-análisis en investigación educativa
 
