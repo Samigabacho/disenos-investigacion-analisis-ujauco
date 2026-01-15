@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Bloque 1
+title: Bloque 1 · Regresión y análisis multivariado
 ---
+
 
 # Bloque 1. Regresión y análisis multivariado aplicados a la investigación educativa
 
