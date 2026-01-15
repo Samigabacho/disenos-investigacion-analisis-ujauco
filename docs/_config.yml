@@ -1,0 +1,9 @@
+title: "Diseños de Investigación y Análisis Estadístico Aplicados a la Educación"
+description: "Material docente (Máster UJA–UCO)"
+theme: minima
+markdown: kramdown
+kramdown:
+  input: GFM
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
