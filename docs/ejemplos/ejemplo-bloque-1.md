@@ -30,6 +30,34 @@ La pregunta de investigación es:
 
 ---
 
+## ¿Cómo se realiza este análisis en JASP o jamovi?
+
+A continuación se describen los **pasos básicos** para realizar una regresión lineal simple utilizando un programa estadístico de uso libre como **JASP** o **jamovi**.
+
+> El objetivo de estos pasos es **familiarizarse con el procedimiento**, no memorizar la interfaz.
+
+### Paso 1. Cargar los datos
+- Abrir JASP o jamovi.
+- Cargar un archivo de datos (por ejemplo, en formato `.csv` o `.sav`).
+- Comprobar que las variables están correctamente identificadas como **numéricas**.
+
+### Paso 2. Acceder al análisis de regresión
+- Ir al menú **Regression**.
+- Seleccionar **Linear Regression**.
+
+### Paso 3. Definir el modelo
+- Arrastrar la variable **Rendimiento académico** al campo *Dependent Variable*.
+- Arrastrar la variable **Tiempo de estudio semanal** al campo *Covariates*.
+
+### Paso 4. Ejecutar el análisis
+- El programa genera automáticamente el output del modelo.
+- No es necesario modificar opciones adicionales en esta fase inicial.
+
+A partir de este punto, el análisis produce una serie de tablas y resultados que deben ser **interpretados**, no simplemente reportados.
+
+
+---
+
 ## Output del análisis (JASP / jamovi)
 
 Tras ejecutar una regresión lineal simple en JASP o jamovi, se obtiene un output que incluye:
