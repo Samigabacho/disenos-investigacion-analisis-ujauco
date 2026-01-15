@@ -23,6 +23,33 @@ Un forest plot es una representación gráfica que muestra:
 
 ---
 
+## ¿Cómo se obtiene un forest plot en JASP o jamovi?
+
+En el contexto de esta asignatura, el forest plot se utilizará principalmente como **herramienta de interpretación**, no de cálculo.
+
+No obstante, es útil comprender **cómo se genera** este tipo de gráfico en programas como JASP o jamovi.
+
+### Paso 1. Acceder al módulo de meta-análisis
+- Abrir JASP o jamovi.
+- Ir al menú **Meta-Analysis**.
+
+### Paso 2. Introducir los datos
+- Cargar un conjunto de datos que contenga:
+  - tamaños del efecto de los estudios,
+  - y sus errores estándar o intervalos de confianza.
+- Estos datos suelen proceder de revisiones sistemáticas previas.
+
+### Paso 3. Generar el forest plot
+- Al seleccionar el modelo de meta-análisis, el programa genera automáticamente:
+  - el forest plot,
+  - la estimación del efecto global,
+  - y medidas de heterogeneidad.
+
+En esta asignatura, el énfasis se pondrá en **interpretar correctamente estos gráficos**, independientemente de cómo hayan sido calculados.
+
+
+---
+
 ## Elementos clave del forest plot
 
 Al observar un forest plot es importante identificar:
