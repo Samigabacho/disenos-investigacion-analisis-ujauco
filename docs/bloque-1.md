@@ -55,6 +55,8 @@ El eje central del bloque será la **regresión**, entendida no como una técnic
 
 **Idea clave:** analizar varias variables a la vez no es sofisticación estadística, es una exigencia metodológica en investigación educativa.
 
+---
+
 ## 2\. La regresión como marco central del análisis multivariado
 
 ### 2.1. Qué es una regresión (una explicación intuitiva)
@@ -125,6 +127,8 @@ Comprender bien esta lógica general facilitará enormemente la interpretación 
 
 **Idea clave:** aprender regresión no es aprender una técnica aislada, sino adquirir una forma de pensar el análisis de datos en educación.
 
+---
+
 ## 3\. Regresión lineal aplicada a un contexto educativo sencillo
 
 ### 3.1. Por qué empezar con un ejemplo simple
@@ -188,6 +192,8 @@ Aunque este ejemplo utiliza una sola variable predictora, la lógica que introdu
 En las siguientes secciones ampliaremos este ejemplo incorporando más variables y mostrando cómo la regresión se convierte en una herramienta claramente multivariada.
 
 **Idea clave:** empezar con modelos simples ayuda a entender modelos más complejos sin cambiar la lógica del razonamiento.
+
+---
 
 ## 4\. De la regresión simple al análisis multivariado: incorporando una segunda variable continua
 
@@ -267,6 +273,8 @@ Este paso progresivo del modelo simple al multivariado permite comprender que el
 
 **Idea clave:** el análisis multivariado no complica el razonamiento, lo hace más realista.
 
+---
+
 ## 5\. Comparación de metodologías controlando una variable continua: la lógica de la ANCOVA
 
 ### 5.1. Por qué comparar grupos no siempre es suficiente
@@ -342,6 +350,8 @@ Cuando se utiliza de forma adecuada, la ANCOVA permite realizar **comparaciones 
 
 **Idea clave:** la ANCOVA no introduce una lógica nueva, sino que extiende la regresión al análisis de grupos controlando variables relevantes.
 
+---
+
 ## 6\. Cuando el resultado no es continuo: introducción a la regresión logística
 
 ### 6.1. Por qué no siempre podemos usar regresión lineal
@@ -415,6 +425,8 @@ Comprender su lógica permite ampliar el repertorio de análisis sin introducir 
 
 **Idea clave:** la regresión logística no cambia la forma de pensar el análisis, solo adapta la regresión a otro tipo de resultados.
 
+---
+
 ## 7\. Cuando los datos están jerarquizados: introducción al análisis multinivel
 
 ### 7.1. Por qué la estructura de los datos importa
@@ -475,6 +487,8 @@ El análisis multinivel resulta especialmente relevante cuando:
 Reconocer estas situaciones es más importante, en este nivel formativo, que dominar los aspectos técnicos del modelo.
 
 **Idea clave:** muchos errores en investigación educativa no se deben a cálculos incorrectos, sino a ignorar la estructura real de los datos.
+
+---
 
 ## 8\. Síntesis del Bloque 1: pensar el análisis multivariado en educación
 
