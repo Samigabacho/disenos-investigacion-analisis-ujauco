@@ -6,8 +6,6 @@ title: Bloque 1 · Regresión y análisis multivariado
 
 # Bloque 1. Regresión y análisis multivariado aplicados a la investigación educativa
 
----
-
 ## 1\. Introducción: del análisis univariante al análisis multivariado
 
 ### 1.1. El tipo de preguntas que hacemos en investigación educativa
