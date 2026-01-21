@@ -6,6 +6,8 @@ title: Bloque 2 · Introducción al meta-análisis
 
 # Bloque 2. Introducción al meta-análisis en investigación educativa
 
+---
+
 ## 1\. Por qué un solo estudio no es suficiente
 
 ### 1.1. La variabilidad de los resultados en investigación educativa
