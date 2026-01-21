@@ -58,6 +58,8 @@ De este modo, el meta-análisis no sustituye a los estudios individuales, sino q
 
 **Idea clave:** un solo estudio aporta información valiosa, pero la comprensión científica avanza cuando se analizan los resultados de forma conjunta.
 
+---
+
 ## 2\. Qué es un meta-análisis: una visión conceptual
 
 ### 2.1. La unidad de análisis en el meta-análisis
@@ -120,6 +122,8 @@ En este sentido, el meta-análisis no elimina la necesidad de leer estudios indi
 
 **Idea clave:** el meta-análisis no suma estudios, organiza y sintetiza la evidencia disponible.
 
+---
+
 ## 3\. La heterogeneidad en meta-análisis: comprender la variabilidad entre estudios
 
 ### 3.1. Por qué los estudios no muestran siempre el mismo efecto
@@ -171,6 +175,8 @@ La presencia de heterogeneidad tiene implicaciones importantes:
 En este sentido, la heterogeneidad no debilita el meta-análisis, sino que señala la necesidad de un análisis más informado y matizado.
 
 **Idea clave:** en meta-análisis, la variabilidad entre estudios no es un inconveniente, sino una fuente de información.
+
+---
 
 ## 4\. Moderadores en meta-análisis: explicar la heterogeneidad
 
@@ -239,6 +245,8 @@ Este enfoque favorece una interpretación más matizada y útil de la evidencia 
 
 **Idea clave:** los moderadores permiten transformar la heterogeneidad en información relevante.
 
+---
+
 ## 5\. Límites del meta-análisis y la importancia de una interpretación prudente
 
 ### 5.1. El meta-análisis como herramienta, no como garantía
@@ -297,6 +305,8 @@ Interpretar adecuadamente los resultados implica:
 Este enfoque prudente es especialmente importante en educación, donde las decisiones basadas en evidencia tienen implicaciones directas en la práctica educativa.
 
 **Idea clave:** el meta-análisis fortalece la evidencia cuando se interpreta con cautela y responsabilidad.
+
+---
 
 ## 6\. Síntesis del Bloque 2: pensar la evidencia más allá de los estudios individuales
 
