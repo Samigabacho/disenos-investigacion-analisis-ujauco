@@ -11,53 +11,70 @@ title: Bloque 1 · Regresión y análisis multivariado
 ### 1.1. El tipo de preguntas que hacemos en investigación educativa
 
 En investigación educativa rara vez nos interesa describir fenómenos simples o aislados. Las preguntas habituales suelen implicar múltiples factores que interactúan entre sí. Por ejemplo:
-¿Mejora una intervención educativa el rendimiento del alumnado teniendo en cuenta su nivel previo?
-¿Qué factores explican el abandono escolar temprano?
-¿Influyen las metodologías activas en la motivación más allá de variables contextuales como el centro o el curso?
+
+- ¿Mejora una intervención educativa el rendimiento del alumnado teniendo en cuenta su nivel previo?
+- ¿Qué factores explican el abandono escolar temprano?
+- ¿Influyen las metodologías activas en la motivación más allá de variables contextuales?
+
 Este tipo de preguntas no pueden abordarse adecuadamente analizando una sola variable cada vez. Requieren herramientas que permitan considerar simultáneamente varias variables.
 
 ### 1.2. Limitaciones de los análisis univariantes
 
 Los análisis univariantes (por ejemplo, comparaciones de medias mediante t de Student o ANOVA) son útiles para responder preguntas simples, como:
-¿Existen diferencias en el rendimiento medio entre dos grupos?
+
+- ¿Existen diferencias en el rendimiento medio entre dos grupos?
+
 Sin embargo, presentan limitaciones importantes cuando:
-Los grupos difieren en variables relevantes antes de la intervención.
-Existen factores contextuales que influyen en el resultado.
+
+- Los grupos difieren en variables relevantes antes de la intervención.
+- Existen factores contextuales que influyen en el resultado.
+
 Queremos estimar el efecto específico de una variable aislando la influencia de otras.
 En estos casos, el análisis univariante puede conducir a interpretaciones sesgadas o incompletas.
 
 ### 1.3. El problema del confusor y el control estadístico
 
 Un confusor es una variable que:
-Está relacionada con la variable dependiente.
-Está relacionada con la variable independiente principal.
-Si no se tiene en cuenta, puede generar asociaciones espurias o exagerar efectos reales.
+
+- Está relacionada con la variable dependiente.
+ -Está relacionada con la variable independiente principal.
+- Si no se tiene en cuenta, puede generar asociaciones espurias o exagerar efectos reales.
+
 El control estadístico consiste en incorporar estas variables en el análisis para estimar el efecto de interés manteniendo constantes otros factores relevantes.
 
 ### 1.4. Qué entendemos por análisis multivariado en este curso
 
 En el contexto de esta asignatura, utilizaremos el término análisis multivariado para referirnos a aquellas técnicas que permiten:
-Analizar varias variables de forma simultánea.
-Estimar el efecto específico de una variable controlando otras.
-Ajustar los análisis a la complejidad real de los datos educativos.
-El eje central del bloque será la regresión, entendida no como una técnica matemática avanzada, sino como un marco general de razonamiento con datos que sustenta muchas de las técnicas multivariadas más utilizadas en educación.
+
+- Analizar varias variables de forma simultánea.
+- Estimar el efecto específico de una variable controlando otras.
+- Ajustar los análisis a la complejidad real de los datos educativos.
+
+El eje central del bloque será la **regresión**, entendida no como una técnica matemática avanzada, sino como un marco general de razonamiento con datos que sustenta muchas de las técnicas multivariadas más utilizadas en educación.
 > **Idea clave: analizar varias variables a la vez no es sofisticación estadística, es una exigencia metodológica en investigación educativa.**
+
+---
+
 
 ## 2. La regresión como marco central del análisis multivariado
 
 ### 2.1. Qué es una regresión (una explicación intuitiva)
 
 En términos sencillos, una regresión es una herramienta que nos permite responder a la siguiente pregunta general:
-¿De qué depende un determinado resultado y en qué medida contribuyen distintos factores a explicarlo?
+
+- ¿De qué depende un determinado resultado y en qué medida contribuyen distintos factores a explicarlo?
+
 A diferencia de los análisis univariantes, que suelen centrarse en una única relación a la vez, la regresión permite considerar varios factores simultáneamente y estimar la contribución específica de cada uno de ellos.
+
 Desde un punto de vista conceptual, la regresión no debe entenderse como una técnica matemática compleja, sino como una forma sistemática de razonar con datos cuando los fenómenos que estudiamos son multifactoriales, como ocurre habitualmente en educación.
 
 ### 2.2. Una idea clave: explicar, no solo comparar
 
 Muchos análisis estadísticos básicos se centran en comparar grupos (por ejemplo, si dos metodologías producen resultados distintos). La regresión introduce un cambio importante de enfoque:
-No solo pregunta si hay diferencias.
-Pregunta por qué se producen esas diferencias y qué factores están implicados.
-Este enfoque explicativo resulta especialmente adecuado en investigación educativa, donde los resultados rara vez dependen de una sola causa.
+
+- No solo pregunta si hay diferencias.
+- Pregunta por qué se producen esas diferencias y qué factores están implicados.
+- Este enfoque explicativo resulta especialmente adecuado en investigación educativa, donde los resultados rara vez dependen de una sola causa.
 
 ### 2.3. Variables dependientes y variables predictoras
 
@@ -94,6 +111,9 @@ La ANCOVA, cuando combinamos variables continuas y categóricas.
 El análisis multinivel, cuando los datos tienen una estructura jerárquica.
 Comprender bien esta lógica general facilitará enormemente la interpretación y el uso responsable de estas técnicas en contextos reales de investigación educativa.
 > **Idea clave: aprender regresión no es aprender una técnica aislada, sino adquirir una forma de pensar el análisis de datos en educación.**
+
+---
+
 
 ## 3. Regresión lineal aplicada a un contexto educativo sencillo
 
@@ -143,6 +163,9 @@ Añadir nuevas variables permite mejorar la explicación del resultado.
 También permite controlar factores que podrían estar influyendo simultáneamente.
 En las siguientes secciones ampliaremos este ejemplo incorporando más variables y mostrando cómo la regresión se convierte en una herramienta claramente multivariada.
 > **Idea clave: empezar con modelos simples ayuda a entender modelos más complejos sin cambiar la lógica del razonamiento.**
+
+---
+
 
 ## 4. De la regresión simple al análisis multivariado: incorporando una segunda variable continua
 
@@ -201,6 +224,9 @@ La interpretación sigue basándose en la misma idea central: aislar efectos y c
 Este paso progresivo del modelo simple al multivariado permite comprender que el análisis multivariado no introduce una nueva forma de pensar, sino que extiende de manera natural la lógica ya conocida.
 > **Idea clave: el análisis multivariado no complica el razonamiento, lo hace más realista.**
 
+---
+
+
 ## 5. Comparación de metodologías controlando una variable continua: la lógica de la ANCOVA
 
 ### 5.1. Por qué comparar grupos no siempre es suficiente
@@ -258,6 +284,9 @@ Su inclusión debe justificarse explícitamente.
 Cuando se utiliza de forma adecuada, la ANCOVA permite realizar comparaciones más justas y transparentes en contextos educativos reales.
 > **Idea clave: la ANCOVA no introduce una lógica nueva, sino que extiende la regresión al análisis de grupos controlando variables relevantes.**
 
+---
+
+
 ## 6. Cuando el resultado no es continuo: introducción a la regresión logística
 
 ### 6.1. Por qué no siempre podemos usar regresión lineal
@@ -312,6 +341,9 @@ acceder o no a un determinado programa.
 Comprender su lógica permite ampliar el repertorio de análisis sin introducir una complejidad conceptual excesiva.
 > **Idea clave: la regresión logística no cambia la forma de pensar el análisis, solo adapta la regresión a otro tipo de resultados.**
 
+---
+
+
 ## 7. Cuando los datos están jerarquizados: introducción al análisis multinivel
 
 ### 7.1. Por qué la estructura de los datos importa
@@ -359,6 +391,9 @@ se trabaja con información procedente de varias aulas,
 o se sospecha que el contexto educativo influye en los resultados.
 Reconocer estas situaciones es más importante, en este nivel formativo, que dominar los aspectos técnicos del modelo.
 > **Idea clave: muchos errores en investigación educativa no se deben a cálculos incorrectos, sino a ignorar la estructura real de los datos.**
+
+---
+
 
 ## 8. Síntesis del Bloque 1: pensar el análisis multivariado en educación
 
