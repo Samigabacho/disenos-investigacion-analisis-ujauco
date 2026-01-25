@@ -2,6 +2,36 @@
 
 Este repositorio publica el material en **GitHub Pages**.
 
+## Autoría
+
+Este material ha sido elaborado por:
+
+**Samuel P. León**  
+Universidad de Jaén  
+Departamento de Pedagogía  (MIDE)
+
+Curso académico **2025–2026**
+
+
+## Licencia
+
+El contenido de este repositorio se distribuye bajo la licencia:
+
+**Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0)**
+
+Esto permite:
+- reutilizar y adaptar el material con fines no comerciales,
+- siempre que se reconozca la autoría,
+- y que cualquier material derivado se comparta bajo la misma licencia.
+
+Texto completo de la licencia:  
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+## Nota sobre el estado del material
+
+Este material docente se encuentra **en desarrollo y revisión continua**.  
+Se actualizará progresivamente incorporando mejoras, nuevas referencias y ajustes derivados de la experiencia docente y de la evolución de la investigación educativa.
+
 ## Estructura
 
 - `docs/` contiene el sitio web (GitHub Pages).
